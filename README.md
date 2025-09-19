@@ -62,9 +62,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,flask,html,css,js,git,github,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,flask,html,git,github,vscode,linux" />
     <br>
-    <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch,docker,aws,firebase,android,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch,android" /><br>
 </div>
 
 <br/>
