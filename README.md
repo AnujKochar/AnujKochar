@@ -168,20 +168,6 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 ---
 
 <div align="center">
-
-### 🎯 Goals for 2024 🎯
-
-- 🔥 Master Advanced Machine Learning techniques
-- 🌟 Contribute to 50+ Open Source projects  
-- 📚 Learn Cloud Computing (AWS/GCP)
-- 🚀 Build 10 production-ready applications
-- 🏆 Achieve 1000+ GitHub followers
-
-</div>
-
----
-
-<div align="center">
 <h2>🎵 Now Playing on Spotify 🎵</h2>
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/your-spotify-username)
